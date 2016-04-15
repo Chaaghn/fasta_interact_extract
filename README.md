@@ -10,5 +10,7 @@ multi:  Does the same as the 'single' mode except by instigating a repeatable lo
 Requirements:
 
 -python2.7
+
 -Packages:  Biopython1.66
+
 -random '.fa' file containing at least two contigs in fasta format and seperated by a single line
