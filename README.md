@@ -5,3 +5,8 @@ The aim here is to use object attributes to interactively navigate through a '.f
 
 single: Gives options to create a text files for all contigs and places individual attributes of contigs within these files
 multi:  Does the same as the 'single' mode except by instigating a repeatable loop to create a desired list of any chosen attribute, then to created text files containing these attributes for each individual contig.
+
+Requirements:
+-python2.7
+-Packages:  Biopython1.66
+-random '.fa' file containing at least two contigs in fasta format and seperated by a single line
